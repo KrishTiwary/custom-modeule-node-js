@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-crash-cource",
+  "version": "1.0.0",
+  "description": "Node Js Carsh Cource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Tutorial"
+  ],
+  "author": "Krish Tiwary <krishna2may@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
